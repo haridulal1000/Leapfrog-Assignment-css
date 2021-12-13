@@ -1,0 +1,306 @@
+button:hover{
+    cursor: pointer;
+}
+input[type="button"]:hover{
+    cursor: pointer;
+}
+img:hover{
+    cursor: pointer;
+}
+span{
+    font-family: 'Mulish', sans-serif;
+}
+li{
+    font-family: 'Mulish', sans-serif; 
+}
+p{
+    font-size: 16px;
+    font-family: 'Mulish', sans-serif;
+}
+h1{
+    font-size: 26px;
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+}
+h2{
+    font-size: 18px;
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+}
+p{
+    font-size: 16px;
+}
+.link-list{
+    margin-top: 5px;
+}
+.link-list li{
+    display: inline;
+}
+.link-list li:hover{
+    cursor: pointer;
+}
+.in-line-block{
+    display: inline;
+}
+.search-icon-right{
+    position: relative;
+    top: 10px;
+    margin:0;
+    left: -3px;
+}
+.search-icon-image{width:33.5px;position:relative;top: -32.5px;}
+.search-icon-left-image{position: relative;top: -18px;left: 4.5px;margin:0;padding: 0;height: 39.5px;}
+.search-text{
+    background-color: #CAEFF7;
+    border: none;
+    height: 30px;
+    width:300px;
+    top: -33px;
+    position: relative;
+    margin-right: 0px;
+}
+.search-form{
+    position: relative;
+    top: 11px;
+}
+.search-button{
+    background-color: #284F57;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    position: relative;
+    top: -22px;
+}
+.search-button:hover{
+    cursor: pointer;
+}
+.search-text-container{
+display: inline;
+}
+.search-button-left{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -11.25px;
+    height: 31px;
+    left: 5px;
+}
+.search-button-right{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -11.25px;
+    height: 31px;
+    left: -7px;
+}
+
+.search-button-container:hover{
+    cursor: pointer;
+}
+.main-name:hover{
+    cursor: pointer;
+    position: relative;
+    /* top: 7px; */
+}
+.username{
+    font-weight: 900;
+}
+.username:hover{
+    cursor: pointer;
+}
+.left-nav-item-list li{
+    display: inline;
+    margin: 20px;
+}
+
+.request, .inbox:hover{
+    cursor: pointer;
+}
+.section-header{
+    background-color: #2FC1DA;
+    height: 20px;
+    padding: 10px;
+}
+.section-link{
+    height: 38px;
+    margin-right:10px;
+    position:relative;
+    top:25%;
+    font-weight: 900;
+}
+.section-link p{
+    width:200px;
+    margin-left: 10px;
+}
+.section-link:hover{
+    cursor: pointer;
+}
+.section-link-right{
+    height: 25px;
+    font-weight: 900;
+}
+.section-link-right:hover{
+    cursor: pointer;
+}
+.section-link-right p{
+    height: 25px;
+    margin-left: 10px;
+}
+
+.float-left{
+    float:left
+}
+.float-right{
+    float: right;
+}
+/* .section-links p{
+    width: 150px;
+} */
+.clear{
+    clear:both;
+}
+.left-header{
+    position: relative;
+    top: 20px;
+    left: 130px;
+}
+.right-header{
+    position: relative;
+    top: 20px;
+    left: 110px;
+}
+
+.main-button-blue{
+    position: relative;
+    top: 2px;
+    left: 25px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color: #31C0D9;
+}
+.main-blue-left{
+    position: relative;
+    top: 21px;
+    left: 30px;
+    height: 53px;
+}
+.main-blue-right{
+    position: relative;
+    top: 23px;
+    left: 18px;
+    height: 55px;
+}
+.main-left{
+    position: relative;
+    top: 21px;
+    left: 46px;
+    height: 54px;
+}
+.main-right{
+    position: relative;
+    top: 21px;
+    left: 29px;
+    height: 51px;
+}
+.main-button{
+    position: relative;
+    top: 1.5px;
+    left: 40px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color: #DDDDDD;
+}
+.main-nav-button, .main-nav-button-blue:hover{
+    cursor: pointer;
+}
+.main-nav-button, .main-nav-button-blue{
+    top:25px;
+}
+.right-buttons-container{
+    position: relative;
+    top:0px;
+    left: -60px;
+}
+.main-nav-left{
+    background-color: #F5F5F5;
+    width: 46%;
+    height: 92px;
+    margin-left: 20px;
+}
+.main-nav-right{
+    background-color: #F5F5F5;
+    width: 46%;
+    height: 93px;
+    margin-left: 2px;
+    margin-right:20px;
+}
+.left-right{
+    position: relative;
+    top: 0px;
+    left: -50px;
+}
+.profile-pic{
+    margin-left: 20px;
+    margin-top: 5px;
+    height:70px;
+}
+.date{
+    color: #616161;
+}
+.author{
+    color: #2FC1DA;
+}
+.author:hover{
+    cursor: pointer;
+    font-weight: 900;
+}
+.subscribe{
+    color: green;
+    font-weight: 900;
+}
+.subscribe:hover{
+    cursor: pointer;
+}
+.alert{
+    color: red;
+}
+.middle-header{
+    margin-left: 20px;
+}
+.post-caption{
+    font-weight: 900;
+}
+.nav-line{
+    height:3px;
+    background-color: #31C0D9;
+    margin-left: 20px;
+    margin-right:20px;
+    z-index: 5;
+}
+.post-bottom{
+    margin:0px 20px 0px 20px;
+}
+.footer-nav{
+    color: white;
+}
+.copyright{
+    color:white;
+}
+li:hover{
+    cursor: pointer;
+}
+.profile-pic:hover{
+    border: 1px solid blue;
+}
+.active{
+    background-color: white;
+}
+.active-img{
+    height: 13px;
+}
