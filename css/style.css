@@ -304,3 +304,9 @@ li:hover{
 .active-img{
     height: 13px;
 }
+ .section-link-right:hover{
+    background-color: gray;
+}
+.section-link:hover{
+    background-color: gray;
+}
