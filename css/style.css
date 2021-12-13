@@ -307,6 +307,6 @@ li:hover{
  .section-link-right:hover{
     background-color: gray;
 }
-.section-link:hover{
-    background-color: gray;
+.link-container:hover{
+    border: 1px solid gray;
 }
