@@ -4,7 +4,7 @@ button:hover{
 input[type="button"]:hover{
     cursor: pointer;
 }
-input[type="searchup"]:hover{
+input[type="search"]:hover{
     cursor: pointer;
 }
 img:hover{
