@@ -312,7 +312,9 @@ li:hover{
 }
  .section-link-right:hover{
     background-color: gray;
+     color:white;
 }
 .link-container:hover{
     border: 1px solid gray;
+    color:white;
 }
